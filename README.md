@@ -31,11 +31,11 @@ Guarda como auto-recon.sh
 
 Dale permisos:
 
-chmod +x auto-recon.sh
+chmod +x auto-reconV1.sh
 
 Ejecuta directamente, ¡él se encarga de instalar lo que falte!
 
-./auto-recon.sh https://example.com
+./auto-reconV1.sh https://example.com
 
 📝 Ventajas
 
@@ -47,7 +47,7 @@ Compatible directamente con Kali Linux y Termux
 
 Otra manera de instalacion
 
-git clone https://github.com/HackingTeamOficial/autorecon-Version-1.0.git cd auto-recon chmod +x auto-recon.sh
+git clone https://github.com/HackingTeamOficial/autorecon-Version-1.0.git cd auto-recon chmod +x auto-reconV1.sh
 
 ✅ Comando único para el usuario
 
@@ -55,7 +55,7 @@ curl -sL https://raw.githubusercontent.com/tuusuario/auto-recon/main/install.sh 
 
 🧪 Uso
 
-./auto-recon.sh https://example.com
+./auto-reconV1.sh https://example.com
 
 Los resultados se almacenarán en:
 
@@ -99,7 +99,7 @@ O crea una versión en Python
 
 🪪 Licencia
 
-MIT License – libre para uso personal y profesional. 👨‍💻 Autor
+MIT License – libre para uso personal y profesional. 👨‍💻 Autor AnonSec777
 
 Desarrollado por AnonSec777 leer la nota que dejamos en el README.md SIEMPRE Puedes encontrarme en Telegram, Twitter o Discord en las Siguientes RRSS
 
