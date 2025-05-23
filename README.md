@@ -47,7 +47,7 @@ Compatible directamente con Kali Linux y Termux
 
 Otra manera de instalacion
 
-git clone https://github.com/HackingTeamOficial/auto-recon cd auto-recon chmod +x auto-recon.sh
+git clone https://github.com/HackingTeamOficial/autorecon-Version-1.0.git cd auto-recon chmod +x auto-recon.sh
 
 ✅ Comando único para el usuario
 
